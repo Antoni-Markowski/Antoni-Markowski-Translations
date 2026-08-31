@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="Antoni Markowski – Dolmetschen und Übersetzen auf Deutsch, Polnisch, Niederländisch und Englisch. Kreis Kleve und deutschlandweit online.">
+
+  <title>Antoni Markowski | Dolmetschen & Übersetzen</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="site-header">
+  <div class="container nav">
+
+    <a class="logo" href="#start">
+      ANTONI <span>MARKOWSKI</span>
+    </a>
+
+    <nav>
+      <a href="#leistungen">Leistungen</a>
+      <a href="#sprachen">Sprachen</a>
+      <a href="#ueber-mich">Über mich</a>
+      <a href="#preise">Preise</a>
+      <a href="#kontakt">Kontakt</a>
+    </nav>
+
+  </div>
+</header>
+
+
+<main id="start">
+
+<section class="hero">
+
+  <div class="container hero-grid">
+
+    <div>
+
+      <p class="eyebrow">
+        DEUTSCH · POLNISCH · NIEDERLÄNDISCH · ENGLISCH
+      </p>
+
+      <h1>
+        Dolmetschen &amp;<br>
+        <span>Übersetzen.</span>
+      </h1>
+
+      <p class="lead">
+        Professionelle Sprachmittlung für Termine, Gespräche und
+        schriftliche Übersetzungen – im Kreis Kleve vor Ort und
+        deutschlandweit online.
+      </p>
+
+      <div class="actions">
+
+        <a class="btn primary" href="#kontakt">
+          Termin anfragen
+        </a>
+
+        <a class="btn secondary" href="#leistungen">
+          Leistungen ansehen
+        </a>
+
+      </div>
+
+      <div class="facts">
+
+        <div>
+          📍
+          <span>
+            <b>Kreis Kleve</b>
+            <small>Vor Ort</small>
+          </span>
+        </div>
+
+        <div>
+          💻
+          <span>
+            <b>Deutschlandweit</b>
+            <small>Online &amp; telefonisch</small>
+          </span>
+        </div>
+
+        <div>
+          🗣
+          <span>
+            <b>4 Sprachen</b>
+            <small>Mehrsprachige Unterstützung</small>
+          </span>
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="photo-box">
+
+      <div class="photo-placeholder">
+
+        <strong>AM</strong>
+
+        <p>Dein Foto</p>
+
+        <small>
+          Hier später dein professionelles Foto einsetzen
+        </small>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section id="leistungen" class="section">
+
+  <div class="container">
+
+    <div class="heading">
+
+      <p class="eyebrow">
+        MEINE LEISTUNGEN
+      </p>
+
+      <h2>
+        Verständigung ohne Sprachbarrieren.
+      </h2>
+
+      <p>
+        Persönliche und digitale Sprachunterstützung –
+        zuverlässig, verständlich und auf Ihren konkreten
+        Termin abgestimmt.
+      </p>
+
+    </div>
+
+
+    <div class="cards">
+
+
+      <article class="card">
+
+        <div class="icon">🗣️</div>
+
+        <h3>
+          Dolmetschen vor Ort
+        </h3>
+
+        <p>
+          Sprachliche Unterstützung bei persönlichen Terminen
+          und Gesprächen im Kreis Kleve.
+        </p>
+
+        <ul>
+
+          <li>Arzt- und Gesundheitstermine</li>
+
+          <li>Behörden und Verwaltung</li>
+
+          <li>Arbeitgebergespräche</li>
+
+          <li>Versicherungen &amp; Banken</li>
+
+          <li>Schulen und Bildungseinrichtungen</li>
+
+          <li>Persönliche und geschäftliche Gespräche</li>
+
+        </ul>
+
+      </article>
+
+
+
+      <article class="card">
+
+        <div class="icon">💻</div>
+
+        <h3>
+          Online &amp; Telefon
+        </h3>
+
+        <p>
+          Dolmetschen per Telefon oder Videogespräch –
+          deutschlandweit.
+        </p>
+
+        <ul>
+
+          <li>Videogespräche</li>
+
+          <li>Telefonische Gespräche</li>
+
+          <li>Deutschlandweit verfügbar</li>
+
+          <li>Flexible Terminvereinbarung</li>
+
+        </ul>
+
+      </article>
+
+
+
+      <article class="card">
+
+        <div class="icon">📄</div>
+
+        <h3>
+          Schriftliche Übersetzungen
+        </h3>
+
+        <p>
+          Übersetzung allgemeiner schriftlicher Inhalte
+          und persönlicher Korrespondenz.
+        </p>
+
+        <ul>
+
+          <li>Briefe und Behördenpost</li>
+
+          <li>E-Mails</li>
+
+          <li>Bewerbungsunterlagen</li>
+
+          <li>Lebensläufe</li>
+
+          <li>Allgemeine Dokumente</li>
+
+          <li>Persönliche Korrespondenz</li>
+
+        </ul>
+
+      </article>
+
+    </div>
+
+
+    <div class="notice">
+
+      <b>Hinweis:</b>
+
+      Beglaubigte Übersetzungen werden nicht angeboten,
+      sofern hierfür eine besondere Ermächtigung oder
+      Bestellung erforderlich ist.
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section id="sprachen" class="section alt">
+
+  <div class="container">
+
+    <div class="heading center">
+
+      <p class="eyebrow">
+        MEINE SPRACHEN
+      </p>
+
+      <h2>
+        Vier Sprachen. Eine klare Kommunikation.
+      </h2>
+
+    </div>
+
+
+    <div class="languages">
+
+      <div>
+        🇩🇪
+        <span>
+          <b>Deutsch</b>
+          <small>C1</small>
+        </span>
+      </div>
+
+
+      <div>
+        🇵🇱
+        <span>
+          <b>Polnisch</b>
+          <small>C1</small>
+        </span>
+      </div>
+
+
+      <div>
+        🇳🇱
+        <span>
+          <b>Niederländisch</b>
+          <small>C2</small>
+        </span>
+      </div>
+
+
+      <div>
+        🇬🇧
+        <span>
+          <b>Englisch</b>
+          <small>C1</small>
+        </span>
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section id="ueber-mich" class="section">
+
+  <div class="container about">
+
+
+    <div class="photo-box">
+
+      <div class="photo-placeholder">
+
+        <strong>AM</strong>
+
+        <p>Dein Foto</p>
+
+        <small>
+          Foto hier einsetzen
+        </small>
+
+      </div>
+
+    </div>
+
+
+    <div>
+
+      <p class="eyebrow">
+        ÜBER MICH
+      </p>
+
+      <h2>
+        Antoni Markowski
+      </h2>
+
+      <p>
+        Sprache soll keine Barriere sein, wenn es um wichtige
+        Gespräche, Termine oder persönliche Angelegenheiten geht.
+      </p>
+
+      <p>
+        Als mehrsprachiger Dolmetscher und Übersetzer unterstütze
+        ich Menschen dabei, sprachliche Barrieren im Alltag und
+        bei wichtigen Gesprächen zu überwinden.
+      </p>
+
+      <p>
+        Meine Sprachkenntnisse umfassen Deutsch, Polnisch,
+        Niederländisch und Englisch. Mein besonderer Schwerpunkt
+        liegt auf der Sprachmittlung zwischen
+        <b>Deutsch und Polnisch</b>.
+      </p>
+
+      <p>
+        Ich biete meine Dienstleistungen persönlich im
+        <b>Kreis Kleve</b> sowie
+        <b>deutschlandweit online</b> an.
+      </p>
+
+      <p>
+        Mein Anspruch ist eine zuverlässige, verständliche und
+        respektvolle Kommunikation – damit beide Seiten wissen,
+        worüber gesprochen wird.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section class="location">
+
+  <div class="container location-grid">
+
+    <div>
+
+      <p class="eyebrow">
+        EINSATZGEBIET
+      </p>
+
+      <h2>
+        Kreis Kleve &amp; deutschlandweit online.
+      </h2>
+
+    </div>
+
+
+    <div class="location-points">
+
+      <div>
+        📍
+        <span>
+          <b>Vor Ort</b>
+          <small>Kreis Kleve</small>
+        </span>
+      </div>
+
+      <div>
+        💻
+        <span>
+          <b>Online</b>
+          <small>Ganz Deutschland</small>
+        </span>
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section id="preise" class="section">
+
+  <div class="container">
+
+    <div class="heading center">
+
+      <p class="eyebrow">
+        PREISE
+      </p>
+
+      <h2>
+        Transparent und individuell.
+      </h2>
+
+      <p>
+        Die Kosten richten sich nach Art, Dauer und Umfang
+        des jeweiligen Auftrags.
+      </p>
+
+    </div>
+
+
+    <div class="prices">
+
+
+      <article class="price featured">
+
+        <p>
+          VOR ORT
+        </p>
+
+        <h3>
+          60 €
+          <small>/ Stunde</small>
+        </h3>
+
+        <ul>
+
+          <li>Mindestbuchung: 2 Stunden</li>
+
+          <li>Persönliche Sprachmittlung</li>
+
+          <li>Kreis Kleve</li>
+
+        </ul>
+
+        <a href="#kontakt">
+          Termin anfragen →
+        </a>
+
+      </article>
+
+
+
+      <article class="price">
+
+        <p>
+          ONLINE &amp; TELEFON
+        </p>
+
+        <h3>
+          50 €
+          <small>/ Stunde</small>
+        </h3>
+
+        <ul>
+
+          <li>Telefon- und Videodolmetschen</li>
+
+          <li>Deutschlandweit</li>
+
+          <li>Flexible Terminvereinbarung</li>
+
+        </ul>
+
+        <a href="#kontakt">
+          Termin anfragen →
+        </a>
+
+      </article>
+
+
+
+      <article class="price">
+
+        <p>
+          SCHRIFTLICH
+        </p>
+
+        <h3>
+          ab 1,50 €
+          <small>/ Normzeile</small>
+        </h3>
+
+        <ul>
+
+          <li>Allgemeine Texte</li>
+
+          <li>Anspruchsvollere Texte ab 1,80 €</li>
+
+          <li>Individuelles Angebot</li>
+
+        </ul>
+
+        <a href="#kontakt">
+          Preis anfragen →
+        </a>
+
+      </article>
+
+    </div>
+
+
+    <p class="note">
+
+      Dringende Aufträge sowie Anfahrten außerhalb des
+      Kreises Kleve werden individuell vereinbart.
+
+    </p>
+
+  </div>
+
+</section>
+
+
+
+<section id="kontakt" class="section alt">
+
+  <div class="container contact">
+
+    <div>
+
+      <p class="eyebrow">
+        KONTAKT
+      </p>
+
+      <h2>
+        Sie benötigen einen Dolmetscher?
+      </h2>
+
+      <p class="lead">
+        Beschreiben Sie kurz, wobei Sie Unterstützung benötigen.
+        Ich melde mich anschließend, um die Einzelheiten
+        zu besprechen.
+      </p>
+
+
+      <div class="details">
+
+        <div>
+          ✉️
+          <span>
+            <small>E-Mail</small>
+            <b>DEINE-EMAIL@BEISPIEL.DE</b>
+          </span>
+        </div>
+
+        <div>
+          📞
+          <span>
+            <small>Telefon</small>
+            <b>DEINE-TELEFONNUMMER</b>
+          </span>
+        </div>
+
+        <div>
+          📍
+          <span>
+            <small>Einsatzgebiet</small>
+            <b>Kreis Kleve · deutschlandweit online</b>
+          </span>
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="contact-card">
+
+      <h3>
+        Termin oder Übersetzung anfragen
+      </h3>
+
+      <p>
+        Schreiben Sie mir direkt eine E-Mail mit Ihren
+        Termindaten und Ihrer Anfrage.
+      </p>
+
+      <a
+        class="btn primary full"
+        href="mailto:DEINE-EMAIL@BEISPIEL.DE?subject=Anfrage%20Dolmetschen%20%2F%20Übersetzung"
+      >
+        E-Mail-Anfrage senden
+      </a>
+
+      <small>
+        Für den kostenlosen Start verwenden wir bewusst
+        kein kostenpflichtiges Kontaktformular.
+      </small>
+
+    </div>
+
+  </div>
+
+</section>
+
+</main>
+
+
+
+<footer>
+
+  <div class="container footer">
+
+    <div>
+
+      <b>ANTONI MARKOWSKI</b>
+
+      <p>
+        Dolmetschen &amp; Übersetzen
+      </p>
+
+    </div>
+
+
+    <div>
+
+      <a href="#">
+        Impressum
+      </a>
+
+      ·
+
+      <a href="#">
+        Datenschutz
+      </a>
+
+    </div>
+
+  </div>
+
+
+  <div class="container copyright">
+
+    © 2026 Antoni Markowski · Alle Rechte vorbehalten.
+
+  </div>
+
+</footer>
+
+</body>
+</html>
